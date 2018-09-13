@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2018-09-12 14:10:51 +0800
+categories: Jekyll
+tags: Jekyll
+description: A simple edit made by Alex.
+---
+This is a sample post for Bailey's blog. 
